@@ -12,7 +12,7 @@ This typeface is based on two prevalent outlooks on the distant future that Stan
 
 ### Links
 
-Sol on [Lem Fonts website](https://lemfont.xyz/sol-2)
+Sol on [Lem Fonts website](https://lemfont.xyz/sol)
 
 ### License
 
